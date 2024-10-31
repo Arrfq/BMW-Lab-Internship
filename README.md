@@ -4,7 +4,7 @@
 * Email           : Arrifqirifqiii@gmail.com
 * University      : Institut Teknologi Bandung
 * Faculty/School  : School of Electrical Engineering and Informatics | Telecommunication Engineering
-* GPA             : 3.36 / 4.00
+* GPA             : 3.41 / 4.00
 * Intern          : SYSTEX/Unixecure
 *   Topic         : Cybersecurity - Red Teaming
 *   Duration      : June 2024 - August 2024
